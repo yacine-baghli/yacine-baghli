@@ -3,7 +3,7 @@
 **ML Researcher** — Generative Models · Computational Biology · Agentic AI
 
 I build models that learn the structure of noise and agents that act in the real world.  
-Currently finishing my MSc thesis at **CentraleSupélec / IETR (CNRS)** on discrete diffusion for DNA sequence reconstruction, and working as a Research Assistant at **MBZUAI** (Zhao Lab) on single-cell computational biology for autoimmune diseases.
+Currently finishing my MSc thesis at **IETR CentraleSupélec Université Paris-Saclay ** on discrete diffusion for DNA sequence reconstruction, and working as a Research Assistant at **MBZUAI** (Zhao Lab) on single-cell computational biology for autoimmune diseases.
 
 📍 France · Open to Research & Industry — **Available August 2026**
 
