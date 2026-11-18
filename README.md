@@ -3,9 +3,8 @@
 **ML Researcher** — Generative Models · Computational Biology · Agentic AI
 
 I build models that learn the structure of noise and agents that act in the real world.  
-Currently finishing my MSc thesis at **IETR CentraleSupélec Université Paris-Saclay** on discrete diffusion for DNA sequence reconstruction, and working as a Research Assistant at **MBZUAI** (Zhao Lab) on single-cell computational biology for autoimmune diseases.
+Currently finishing my MSc thesis at **IETR CentraleSupélec Université Paris-Saclay** on discrete diffusion for DNA sequence reconstruction.
 
-📍 France · Open to Research & Industry — **Available August 2026**
 
 [![Website](https://img.shields.io/badge/Website-yacine--baghli.github.io-0A0A0A?style=flat&logo=googlechrome&logoColor=white)](https://yacine-baghli.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yacine%20Baghli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yacine-baghli-68b2492b7/)
