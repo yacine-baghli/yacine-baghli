@@ -1,6 +1,6 @@
 # Hey, I'm Yacine 👋
 
-**ML Researcher** — Generative Models · Computational Biology · Agentic AI
+**ML Researcher** — Python · PyTorch · C++20 · CUDA · Transformers · Foundation Models · Generative Modeling · LLM Post-Training · Representation Learning · Model Evaluation · GPU Training
 
 I build models that learn the structure of noise and agents that act in the real world.  
 Currently finishing my MSc thesis at **IETR CentraleSupélec Université Paris-Saclay** on discrete diffusion for DNA sequence reconstruction.
