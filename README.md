@@ -10,14 +10,9 @@ Currently finishing my MSc thesis at **IETR CentraleSupélec Université Paris-S
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yacine%20Baghli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yacine-baghli-68b2492b7/)
 [![Email](https://img.shields.io/badge/Email-yacine.baghli%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yacine.baghli@gmail.com)
 
----
+**TraceDiff** — *MSc Thesis*: Discrete diffusion model that learns structured noise. 
+**State-of-the-art** on Clustered Nanopore Reads. 📝 Manuscript in prep (NeurIPS/ICML workshop) 
 
-## 🔬 Research
-
-| Project | What it does | Status |
-|---|---|---|
-| **TraceDiff** — *MSc Thesis* | Discrete diffusion model that learns structured noise (insertions, deletions, substitutions) in DNA sequences. Alignment-marginalizing encoder with attention pooling. **State-of-the-art** on Clustered Nanopore Reads. | 📝 Manuscript in prep (NeurIPS/ICML workshop) |
-| **T-Cell Atlas for MS** — *MBZUAI* | Single-cell atlas integrating longitudinal scRNA-seq (EAE mouse + human MS data). Clustering, trajectory analysis, and differential expression with Scanpy. | 🔄 Ongoing |
 
 ## 🛠️ Selected Projects
 
